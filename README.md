@@ -2,6 +2,8 @@
 Manual Testing for an EV Charging Station Application
 
 📌 Project Overview:
+
+
 This repository contains the Manual Testing Project for EV POINT, an Electric Vehicle charging station web application.
 The project focuses on validating the functionality, usability, navigation, access control, and user workflows of the EV POINT application through comprehensive manual test cases.
 The test cases cover both User-side and Admin-side functionalities.
