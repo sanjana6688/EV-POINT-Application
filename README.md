@@ -1,6 +1,6 @@
-# 🚗 EV POINT — Manual Testing Project
+# EV POINT — Manual Testing Project
 
-## 📌 Project Overview
+## Project Overview
 
 **EV POINT** is an EV charging-station web application that allows users to find charging stations, make bookings, manage their profiles, and cancel bookings.
 
@@ -10,7 +10,7 @@ This repository contains a complete **Manual Testing / QA project** created base
 
 ---
 
-## 🎯 Testing Objectives
+## Testing Objectives
 
 The primary objectives of this project are to:
 
@@ -27,7 +27,7 @@ The primary objectives of this project are to:
 
 ---
 
-## 🧪 Test Coverage
+## Test Coverage
 
 The test suite covers **19 functional scenarios** across the following application areas:
 
@@ -44,7 +44,7 @@ The test suite covers **19 functional scenarios** across the following applicati
 
 ---
 
-## 📊 Test Execution Summary
+## Test Execution Summary
 
 | Metric | Result |
 |--------|--------|
@@ -72,7 +72,7 @@ These areas require attention before the application can be considered fully rel
 
 ---
 
-## 🔍 Testing Approach
+## Testing Approach
 
 The project follows a structured manual QA lifecycle:
 
@@ -86,7 +86,5 @@ Test Cases
 Test Execution
      ↓
 Defect Logging
-     ↓
-Retesting
      ↓
 Defect Closure
