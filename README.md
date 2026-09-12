@@ -88,3 +88,24 @@ Test Execution
 Defect Logging
      ↓
 Defect Closure
+
+---
+
+### Tester
+
+Sanjana
+Manual QA / Software Testing Project
+
+Project: EV POINT
+Version: 1.0
+Prepared: August 2026
+
+### Conclusion
+
+The EV POINT manual testing project demonstrates an end-to-end QA approach covering functional testing, validation, security, access control, session management, database verification, UI testing, and defect management.
+
+The project provides structured and traceable testing documentation that can be used to assess application quality, identify high-risk areas, support defect resolution, and determine release readiness.
+
+###Project Focus
+
+Manual Testing | Functional Testing | Test Case Design | Defect Management | SQL/Database Validation | Security Testing | UI Testing | QA Documentation
